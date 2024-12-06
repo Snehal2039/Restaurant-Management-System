@@ -21,10 +21,30 @@ This project is a Restaurant Management System designed to provide a clean, user
 - A text editor like VS Code or Sublime Text to view and edit code if needed.
   
 ## **Screenshots**
+- Home Page
 
-![HomePage]("images\Home")
 
-Here’s a preview of the homepage for the Restaurant Management System.
 
-<img src="C:\Users\Snehal\OneDrive\Pictures\Screenshots\Screenshot 2024-12-06 123430.png" alt="Home Page" >
+
+  ![home](https://github.com/user-attachments/assets/4871845f-2157-403b-90c9-0d372d0fadf5)
+
+- Categories
+
+  
+  ![Categories_1](https://github.com/user-attachments/assets/f5439a84-ba14-4d7e-ac8d-892925f9180a)
+  ![Categories_2](https://github.com/user-attachments/assets/cef295b0-f8ce-4d46-be5e-1bd3f9d971c6)
+
+- Search Bar
+  
+
+  ![search bar](https://github.com/user-attachments/assets/4d038bfa-5b08-45fa-9a83-5d1942cb281f)
+
+- Food Menu
+  
+  
+  ![food menu](https://github.com/user-attachments/assets/d01f8ee3-a055-4683-893a-bf24c1d1cf99)
+
+- Order Page
+  
+  ![order](https://github.com/user-attachments/assets/591153f6-7278-4493-9a18-cb1cda08ab00)
 
